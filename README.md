@@ -1,6 +1,6 @@
 # deep-learning-challenge
 ## 1st Model:
-  72.65%
+  71.60%
   - This indicates a good level of model performance, although it has room for improvement.
 ## 2nd Model:
   73.04%
